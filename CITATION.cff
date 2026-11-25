@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark scripts, please cite our QMaSIF paper."
+type: software
+title: "QMaSIF: E(3)-Invariant Geometric Quantum Learning via Data Re-uploading SU(2) Rotations and Distance-Conditioned Ising-ZZ Entanglement for Protein Interface Site Prediction"
+authors:
+  - family-names: "Hasannezhad Soufyani"
+    given-names: "Mohammad"
+    email: "Mohammadhasannejad810@gmail.com"
+    affiliation: "Department of Computer Science, University of Tabriz, Tabriz, Iran"
+repository-code: "https://github.com/MohammadHasannezhad/QMaSIF"
+license: MIT
+date-released: 2026-11-24
+keywords:
+  - quantum-machine-learning
+  - geometric-deep-learning
+  - structural-bioinformatics
+  - protein-protein-interfaces
+  - variational-quantum-circuits
+  - data-reuploading
+  - e3-invariance

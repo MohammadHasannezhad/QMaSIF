@@ -1,0 +1,131 @@
+{
+  "global": {
+    "n_surface_residues": 2855,
+    "n_interface_residues": 424,
+    "full_surface_roc_auc": 62.76020039893514,
+    "pearson_r_all": -0.08175479966494865,
+    "pearson_p_all": 1.2213095120172775e-05,
+    "spearman_rho_all": -0.1417146386260036,
+    "spearman_p_all": 2.8003202575200455e-14,
+    "pearson_r_20A": -0.2617944027540624,
+    "pearson_p_20A": 3.9420239997686776e-31,
+    "mean_core_5A": 0.4683316648006439,
+    "mean_rim_5_10A": 0.4454256594181061,
+    "mean_distal_gt10A": 0.4024243652820587,
+    "mannwhitney_p": 1.8434254039814356e-21
+  },
+  "ak4_pymol_case_study": {
+    "target_chain": "B",
+    "partner_chain": "C",
+    "n_surface_res": 114,
+    "n_interface_res": 13,
+    "chain_roc_auc": 83.0921553693831,
+    "pearson_r": -0.4826040877621897,
+    "pearson_p": 5.401406947212461e-08,
+    "spearman_rho": -0.4488406472124907,
+    "spearman_p": 5.48223922125284e-07,
+    "pdb_file": "1AK4_qmasif_annotated.pdb",
+    "pml_file": "visualize_1ak4_qmasif.pml"
+  },
+  "per_complex": [
+    {
+      "complex": "1AK4_B_C",
+      "n_surface_res": 213,
+      "n_interface_res": 26,
+      "surface_roc_auc": 71.88399835458658,
+      "surface_pr_auc": 27.443084068703094,
+      "pearson_r": 0.09183971919136336,
+      "pearson_p": 0.1817804645325635,
+      "spearman_rho": 0.033759675591279174,
+      "spearman_p": 0.6241716625397629
+    },
+    {
+      "complex": "1H1V_A_G",
+      "n_surface_res": 488,
+      "n_interface_res": 53,
+      "surface_roc_auc": 79.23660811103882,
+      "surface_pr_auc": 37.864111197303046,
+      "pearson_r": -0.1891163065348799,
+      "pearson_p": 2.6107476107141216e-05,
+      "spearman_rho": -0.25427460409267144,
+      "spearman_p": 1.2222089723406894e-08
+    },
+    {
+      "complex": "1KXP_A_D",
+      "n_surface_res": 549,
+      "n_interface_res": 78,
+      "surface_roc_auc": 61.323425336164185,
+      "surface_pr_auc": 23.758043412285193,
+      "pearson_r": -0.06547945226876838,
+      "pearson_p": 0.12542855283270554,
+      "spearman_rho": -0.07296411356094368,
+      "spearman_p": 0.08763925193698133
+    },
+    {
+      "complex": "1US7_A_B",
+      "n_surface_res": 271,
+      "n_interface_res": 26,
+      "surface_roc_auc": 71.39717425431711,
+      "surface_pr_auc": 23.24627404698215,
+      "pearson_r": -0.009348573002677923,
+      "pearson_p": 0.8782492997973872,
+      "spearman_rho": -0.22419952267646556,
+      "spearman_p": 0.00019826954581670913
+    },
+    {
+      "complex": "1F51_B_F",
+      "n_surface_res": 207,
+      "n_interface_res": 46,
+      "surface_roc_auc": 75.47934107480421,
+      "surface_pr_auc": 36.36850128933803,
+      "pearson_r": -0.5564144715726088,
+      "pearson_p": 3.1885592422761465e-18,
+      "spearman_rho": -0.6265457894685259,
+      "spearman_p": 5.682202011691906e-24
+    },
+    {
+      "complex": "1GPW_E_F",
+      "n_surface_res": 318,
+      "n_interface_res": 53,
+      "surface_roc_auc": 69.33428266286936,
+      "surface_pr_auc": 37.23202597224362,
+      "pearson_r": -0.30614254524135776,
+      "pearson_p": 2.5159906811459388e-08,
+      "spearman_rho": -0.30324540620673957,
+      "spearman_p": 3.4525253305385544e-08
+    },
+    {
+      "complex": "1K74_A_D",
+      "n_surface_res": 352,
+      "n_interface_res": 52,
+      "surface_roc_auc": 57.71153846153846,
+      "surface_pr_auc": 16.314499265539105,
+      "pearson_r": -0.028537360237843437,
+      "pearson_p": 0.5936095844451773,
+      "spearman_rho": -0.0630723515898895,
+      "spearman_p": 0.23787749443448378
+    },
+    {
+      "complex": "1QA9_C_D",
+      "n_surface_res": 135,
+      "n_interface_res": 33,
+      "surface_roc_auc": 28.104575163398692,
+      "surface_pr_auc": 17.880357327181926,
+      "pearson_r": 0.46634602683255605,
+      "pearson_p": 1.1942307961977651e-08,
+      "spearman_rho": 0.4659607911460816,
+      "spearman_p": 1.232190462748186e-08
+    },
+    {
+      "complex": "1M10_A_B",
+      "n_surface_res": 322,
+      "n_interface_res": 57,
+      "surface_roc_auc": 47.143330023171146,
+      "surface_pr_auc": 18.543299528464825,
+      "pearson_r": 0.17296004611024923,
+      "pearson_p": 0.0018388442208806732,
+      "spearman_rho": 0.16894442532468892,
+      "spearman_p": 0.002352438413967615
+    }
+  ]
+}

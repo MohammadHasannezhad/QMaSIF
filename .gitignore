@@ -1,0 +1,35 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments & IDEs
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Cached raw RCSB PDB downloads & large intermediate dataset tensors (auto-rebuilt by step2)
+pdb_cache/
+qmasif_real_pdb_dataset.pt
+qmasif_real_pdb_site_dataset.pt
+
+# LaTeX build artifacts (if compiled locally)
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Temporary package zips
+QMaSIF_GitHub_Package*.zip

@@ -1,0 +1,14 @@
+# Core deep learning & quantum simulation
+torch>=2.0.0
+pennylane>=0.35.0
+
+# Scientific computing & statistics
+numpy>=1.26.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+
+# Structural bioinformatics (PDB parsing & BLOSUM62 Smith-Waterman clustering)
+biopython>=1.83
+
+# Publication-grade plotting
+matplotlib>=3.8.0

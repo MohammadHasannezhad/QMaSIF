@@ -1,0 +1,13 @@
+================================================================================
+UPDATED "DATA AND CODE AVAILABILITY" SECTION (FOR PUBLIC GITHUB RELEASE)
+================================================================================
+
+--- 1. LaTeX Version (paste into main.tex) ---
+
+\section*{Data and Code Availability}
+All experimental protein structures analyzed in this study are publicly available from the RCSB Protein Data Bank (PDB) via Docking Benchmark 5.5 (\cite{db55}). The complete reproducible source code for \textsc{QMaSIF}---including the vectorized PyTorch statevector and density-matrix simulators, PennyLane verification suites, DB5.5 PDB preprocessing pipeline, 5-fold cluster-level cross-validation scripts, structurally matched classical mirrors, adversarial symmetry tests, multi-patch gradient trainability analysis, saved JSON benchmark outputs, trained model checkpoints, and PyMOL visualization files---is publicly available on GitHub at \url{https://github.com/MohammadHasannezhad/QMaSIF}.
+
+
+--- 2. Microsoft Word Version (paste into QMaSIF_Manuscript-v2.docx) ---
+
+All experimental protein structures analyzed in this study are publicly available from the RCSB Protein Data Bank (PDB) via Docking Benchmark 5.5 [11]. The complete reproducible source code for QMaSIF—including the vectorized PyTorch statevector and density-matrix simulators, PennyLane verification suites, DB5.5 PDB preprocessing pipeline, 5-fold cluster-level cross-validation scripts, structurally matched classical mirrors, adversarial symmetry tests, multi-patch gradient trainability analysis, saved JSON benchmark outputs, trained model checkpoints, and PyMOL visualization files—is publicly available on GitHub at https://github.com/MohammadHasannezhad/QMaSIF.
